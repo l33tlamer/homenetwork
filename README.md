@@ -1,5 +1,5 @@
 <br>
 
-Hello,
+**Hello,**
 
-**this is just a static landing page.**
+this is just a static landing page.
